@@ -1,0 +1,12 @@
+
+Card/Library
+Card/.vs
+Card/.vscode
+Card/obj
+Card/Logs
+Card/Temp
+Card/test_Data
+Card/.vsconfig
+*.csproj
+*.sln
+Card/test.exe
